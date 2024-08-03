@@ -42,7 +42,7 @@ Software Engineer Intern | Tata Consultancy Services | Hyderabad, India | Januar
 the simulation that led to a 50% reduction in testing time for new features of the LTE protocol stack’s RLC layer.
 
 ## Technical Skills
-| Domain                 | Skills                                                              |
+|                        |                                                                     |
 |------------------------|---------------------------------------------------------------------|
 | Version Control tools  | GitHub, Gitlab                                                      |
 | Big Data Technologies  | Hadoop, Spark, Map Reduce                                           |
