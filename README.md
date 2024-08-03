@@ -1,5 +1,7 @@
 # Software Engineer
 
+![My Logo]({{ site.baseurl }}{{ site.logo }})
+
 ### Technical Skills: Python, Java, SQL, C++, Apache Spark, Openstack, AWS, Azure, Tableau, ELK Stack, MongoDB, PostgreSQL, Django, Flask, Spring Boot 
 
 ## Education
