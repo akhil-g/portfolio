@@ -1,6 +1,6 @@
 # Software Engineer
 
-### Technical Skills: Python, SQL, C++, Scala, Apache Spark, Tableau, 
+### Technical Skills: Python, Java, SQL, C++, Apache Spark, Openstack, AWS, Azure, Tableau, ELK Stack, MongoDB, PostgreSQL, Django, Flask, Spring Boot 
 
 ## Education
 - Master of Science in Computer Science, Graduate Certificate in Data Science | Missouri State University (December 2023)
