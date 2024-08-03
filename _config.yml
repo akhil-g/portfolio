@@ -3,3 +3,4 @@ logo: /folder/image.jpg
 #image: /folder/image.jpg
 #theme: jekyll-theme-minimal
 theme: jekyll-theme-dinky
+markdown: kramdown
