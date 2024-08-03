@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-##Professional Summary
+## Professional Summary
 
 Dynamic software engineer with 4+ years of experience in designing, building, and maintaining robust infrastructure and developer
 tools. Proven expertise in Java, Python, and Kubernetes, with a strong focus on automating deployment processes to enhance developer
@@ -11,9 +11,9 @@ and a deep understanding of systems and software. Adept at collaborating with cr
 technologies, including AWS and Terraform, to deliver scalable solutions. Passionate about creating efficient, enjoyable environments
 for developers, driving innovation and growth in fast-paced settings.
 
-##Experience
+## Experience
 
-**Consultant | GyanSys Inc | Bangalore, India May 2021 – December 2021**
+Consultant | GyanSys Inc | Bangalore, India | May 2021 – December 2021
 
 • Designed and implemented a scalable ETL process by leveraging my knowledge of ETL tools and methodologies, was able to
 design a process that could handle over 100,000 records of big data from multiple sources, that resulted in an improvement in
@@ -25,7 +25,7 @@ that resulted in a 40% increase in reporting efficiency.
 • Collaborated effectively across teams to optimize database queries by working closely with other teams, I was able to identify
 and resolve development challenges that resulted in an 80% performance increase in database queries.
 
-**System Engineer |Tata Consultancy Services | Hyderabad, India September 2018 – May 2021**
+System Engineer |Tata Consultancy Services | Hyderabad, India | September 2018 – May 2021
 
 • Designed a Kubernetes architecture with high availability using HPA scripts on OpenStack that resulted in achieving 99%
 uptime for critical applications.
@@ -36,14 +36,12 @@ for the automation and implemented the necessary security tools that led to a 26
 • Developed a Telco Cloud VNF allocation estimator algorithm designed with a command-line interface (CLI) and Excel
 integration, the algorithm had a 98% accuracy rate, improving the efficiency of resource allocation.
 
-**Software Engineer Intern | Tata Consultancy Services | Hyderabad, India January 2018 – May 2018**
+Software Engineer Intern | Tata Consultancy Services | Hyderabad, India | January 2018 – May 2018
 
 • Build a functional software simulation of the RLC AM entity using C++ and socket programming on a Linux system to develop
 the simulation that led to a 50% reduction in testing time for new features of the LTE protocol stack’s RLC layer.
 
-
-
-### Technical Skills
+## Technical Skills
 Version Control tools | GitHub, Gitlab
 Big Data Technologies | Hadoop, Spark, Map Reduce
 Containerization tools | Docker, Kubernetes, Istio, Jaeger, Kiali, Grafana, Helm charts
