@@ -42,39 +42,22 @@ Software Engineer Intern | Tata Consultancy Services | Hyderabad, India | Januar
 the simulation that led to a 50% reduction in testing time for new features of the LTE protocol stack’s RLC layer.
 
 ## Technical Skills
-Version Control tools | GitHub, Gitlab
-
-Big Data Technologies | Hadoop, Spark, Map Reduce
-
-Containerization tools | Docker, Kubernetes, Istio, Jaeger, Kiali, Grafana, Helm charts
-
-Monitoring tools | Nagios, ELK stack
-
-Cloud Platform | OpenStack, AWS, Azure, GCP
-
-Cloud Tools | Azure blob storage, AWS EC2, AWS S3, DynamoDB, AWS Glue, AWS Lambda
-
-DevOps tools | Jenkins, Azure DevOps, SonarQube
-
-Build tools | Maven, Gradle
-
-Programming Languages | Python, Core Java, Ruby, C++, C, shell scripting
-
-Frameworks | Django, Flask, Spring Boot, Celery
-
-Web Technologies | Html, Basics of Angular 8
-
-Database | MySQL, MongoDB, Elasticsearch, PostgreSQL, Neo4J
-
-Automation tools | Selenium
-
-Other tools | OSM, ManageIQ, Kafka, Redis, Tableau
-
-Operating System | Linux/Unix (command line), Windows, Mac
-
-## Education
-- Master of Science in Computer Science, Graduate Certificate in Data Science | Missouri State University (December 2023)
-- Bachelor of Technology in Electronics and Communication Engineering | Jawaharlal Nehru Technological University, Hyderabad (May 2018)
+|--------------|--------------------------------------|
+| Version Control tools | GitHub, Gitlab |
+| Big Data Technologies | Hadoop, Spark, Map Reduce |
+| Containerization tools | Docker, Kubernetes, Istio, Jaeger, Kiali, Grafana, Helm charts |
+| Monitoring tools | Nagios, ELK stack |
+| Cloud Platform | OpenStack, AWS, Azure, GCP |
+| Cloud Tools | Azure blob storage, AWS EC2, AWS S3, DynamoDB, AWS Glue, AWS Lambda |
+| DevOps tools | Jenkins, Azure DevOps, SonarQube |
+| Build tools | Maven, Gradle |
+| Programming Languages | Python, Core Java, Ruby, C++, C, shell scripting |
+| Frameworks | Django, Flask, Spring Boot, Celery |
+| Web Technologies | Html, Basics of Angular 8 |
+| Database | MySQL, MongoDB, Elasticsearch, PostgreSQL, Neo4J |
+| Automation tools | Selenium |
+| Operating System | Linux/Unix (command line), Windows, Mac |
+|--------------|--------------------------------------|
 
 ## Projects
 
@@ -107,3 +90,7 @@ Project Outcome: Deployed a web application on multiple cloud environments(AWS &
 Project Description: • Built a Java based tool using Spring Boot and Oracle DB for automated backup storing with specific transformations to generate reports with an increased performance of tool by 80%. • Coded SQL scripts for stored procedures and backup storage to transform the data to be stored in database.
 Skills Utilized: Java, OracleDB, Git, Spring Boot
 Project Outcome: Transformed data from multiple data source and able to generate reports.
+
+## Education
+- Master of Science in Computer Science, Graduate Certificate in Data Science | Missouri State University (December 2023)
+- Bachelor of Technology in Electronics and Communication Engineering | Jawaharlal Nehru Technological University, Hyderabad (May 2018)
