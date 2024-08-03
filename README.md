@@ -7,7 +7,7 @@
 - Bachelor of Technology in Electronics and Communication Engineering | Jawaharlal Nehru Technological University, Hyderabad (May 2018)
 
 ## Projects
-**An Efficient Model in Deep Learning for Eye Disease Detection** | [Project_Link1](https://github.com/akhil-g/-An-Efficient-Model-in-Deep-Learning-for-Eye-Disease-Detection)
+**An Efficient Model in Deep Learning for Eye Disease Detection** | [Project_Link1](https://github.com/akhil-g/-An-Efficient-Model-in-Deep-Learning-for-Eye-Disease-Detection)  
 
 Project Description: Implemented an efficient and highly accurate Deep Learning Model utilizing EfficientNetB7 model and trained it for classifying the eye diseases, another major challenge is dataset so I was able to gather multiple datasets from various source and combined them to train the model efficiently. Was able to achieve accuracy close to 100%.
 Skills Utilized: Python, Deep Learning, OpenCV
