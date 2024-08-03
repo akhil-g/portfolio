@@ -2,7 +2,63 @@
 
 # Software Engineer
 
-### Technical Skills: Python, Java, SQL, C++, Apache Spark, Openstack, AWS, Azure, Tableau, ELK Stack, MongoDB, PostgreSQL, Django, Flask, Spring Boot 
+##Professional Summary
+
+Dynamic software engineer with 4+ years of experience in designing, building, and maintaining robust infrastructure and developer
+tools. Proven expertise in Java, Python, and Kubernetes, with a strong focus on automating deployment processes to enhance developer
+productivity. Demonstrated ability to streamline workflows and improve software development lifecycles through a product mindset
+and a deep understanding of systems and software. Adept at collaborating with cross-functional teams and leveraging cutting-edge
+technologies, including AWS and Terraform, to deliver scalable solutions. Passionate about creating efficient, enjoyable environments
+for developers, driving innovation and growth in fast-paced settings.
+
+##Experience
+
+**Consultant | GyanSys Inc | Bangalore, India May 2021 – December 2021**
+
+• Designed and implemented a scalable ETL process by leveraging my knowledge of ETL tools and methodologies, was able to
+design a process that could handle over 100,000 records of big data from multiple sources, that resulted in an improvement in
+data processing efficiency by 40%, all within a span of 3 months.
+• Streamlined the workflow to automate the data extraction process from Azure Blob Storage to Veeva Cloud using scripts, that
+led to a 65% increase in workflow efficiency.
+• Improved reporting efficiency to analyze large datasets from various databases using advanced SQL queries to identify trends
+that resulted in a 40% increase in reporting efficiency.
+• Collaborated effectively across teams to optimize database queries by working closely with other teams, I was able to identify
+and resolve development challenges that resulted in an 80% performance increase in database queries.
+
+**System Engineer |Tata Consultancy Services | Hyderabad, India September 2018 – May 2021**
+
+• Designed a Kubernetes architecture with high availability using HPA scripts on OpenStack that resulted in achieving 99%
+uptime for critical applications.
+• Automated the deployment workflows of containers and implemented security tools for Kubernetes pods using CI/CD pipelines
+for the automation and implemented the necessary security tools that led to a 26% performance improvement.
+• Constructed a virtual EPC environment on OpenStack with a Kubernetes pod using automation for dynamic IP routing within a
+60-second timeframe that resulted in a more efficient and responsive system.
+• Developed a Telco Cloud VNF allocation estimator algorithm designed with a command-line interface (CLI) and Excel
+integration, the algorithm had a 98% accuracy rate, improving the efficiency of resource allocation.
+
+**Software Engineer Intern | Tata Consultancy Services | Hyderabad, India January 2018 – May 2018**
+
+• Build a functional software simulation of the RLC AM entity using C++ and socket programming on a Linux system to develop
+the simulation that led to a 50% reduction in testing time for new features of the LTE protocol stack’s RLC layer.
+
+
+
+### Technical Skills
+Version Control tools | GitHub, Gitlab
+Big Data Technologies | Hadoop, Spark, Map Reduce
+Containerization tools | Docker, Kubernetes, Istio, Jaeger, Kiali, Grafana, Helm charts
+Monitoring tools | Nagios, ELK stack
+Cloud Platform | OpenStack, AWS, Azure, GCP
+Cloud Tools | Azure blob storage, AWS EC2, AWS S3, DynamoDB, AWS Glue, AWS Lambda
+DevOps tools | Jenkins, Azure DevOps, SonarQube
+Build tools | Maven, Gradle
+Programming Languages | Python, Core Java, Ruby, C++, C, shell scripting
+Frameworks | Django, Flask, Spring Boot, Celery
+Web Technologies | Html, Basics of Angular 8
+Database | MySQL, MongoDB, Elasticsearch, PostgreSQL, Neo4J
+Automation tools | Selenium
+Other tools | OSM, ManageIQ, Kafka, Redis, Tableau
+Operating System | Linux/Unix (command line), Windows, Mac
 
 ## Education
 - Master of Science in Computer Science, Graduate Certificate in Data Science | Missouri State University (December 2023)
