@@ -8,16 +8,18 @@
 
 ## Projects
 **An Efficient Model in Deep Learning for Eye Disease Detection** | [Project_Link1](https://github.com/akhil-g/-An-Efficient-Model-in-Deep-Learning-for-Eye-Disease-Detection)
+
 Project Description: Implemented an efficient and highly accurate Deep Learning Model utilizing EfficientNetB7 model and trained it for classifying the eye diseases, another major challenge is dataset so I was able to gather multiple datasets from various source and combined them to train the model efficiently. Was able to achieve accuracy close to 100%.
 Skills Utilized: Python, Deep Learning, OpenCV
 Project Outcome: Was able to achieve accuracy close to 100%
 
 **Job Optimized Search Engine** | [Project_Link2](https://github.com/akhil-g/JobOptimizedSearchEngine)
+
 Project Description: Developed a search engine for extracting the job posting based on the required parameters such as role, location, keywords to include and exclude and search sites to choose and most important thing is time based filter i.e., when the job is being posted. The project utilizes the web scrapping to gather the required information and generates an xlsx file with all the url with corresponding comments according to the filters applied.
 Skills Utilized: Python, BeautifulSoup, Django
 Project Outcome: Successfully able to generate xlsx file to apply for the latest job posting.
 
-**Superstore Sales Analysis & Data Visualization** | 
+**Superstore Sales Analysis & Data Visualization**
 Project Description: Designed a Data Analytics project utilizing a real-world Superstore dataset with the intent of evaluating the supplied dataset, solving business challenges with this dataset, and mining information insights using visual patterns and trends. Python, Pandas, and Tableau have been employed to develop the project.
 Skills Utilized: Python, Pandas, Tableau
 Project Outcome: Achieved graphical visualizations of Sales Analytics by transforming the data.
