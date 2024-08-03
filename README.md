@@ -3,8 +3,8 @@
 ### Technical Skills: Python, Java, SQL, C++, Apache Spark, Openstack, AWS, Azure, Tableau, ELK Stack, MongoDB, PostgreSQL, Django, Flask, Spring Boot 
 
 ## Education
-- Master of Science in Computer Science, Graduate Certificate in Data Science | Missouri State University (December 2023)
-- Bachelor of Technology in Electronics and Communication Engineering | Jawaharlal Nehru Technological University, Hyderabad (May 2018)
+Master of Science in Computer Science, Graduate Certificate in Data Science | Missouri State University (December 2023)
+Bachelor of Technology in Electronics and Communication Engineering | Jawaharlal Nehru Technological University, Hyderabad (May 2018)
 
 ## Projects
 **An Efficient Model in Deep Learning for Eye Disease Detection** | [Project_Link1](https://github.com/akhil-g/-An-Efficient-Model-in-Deep-Learning-for-Eye-Disease-Detection)  
