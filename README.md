@@ -43,19 +43,33 @@ the simulation that led to a 50% reduction in testing time for new features of t
 
 ## Technical Skills
 Version Control tools | GitHub, Gitlab
+
 Big Data Technologies | Hadoop, Spark, Map Reduce
+
 Containerization tools | Docker, Kubernetes, Istio, Jaeger, Kiali, Grafana, Helm charts
+
 Monitoring tools | Nagios, ELK stack
+
 Cloud Platform | OpenStack, AWS, Azure, GCP
+
 Cloud Tools | Azure blob storage, AWS EC2, AWS S3, DynamoDB, AWS Glue, AWS Lambda
+
 DevOps tools | Jenkins, Azure DevOps, SonarQube
+
 Build tools | Maven, Gradle
+
 Programming Languages | Python, Core Java, Ruby, C++, C, shell scripting
+
 Frameworks | Django, Flask, Spring Boot, Celery
+
 Web Technologies | Html, Basics of Angular 8
+
 Database | MySQL, MongoDB, Elasticsearch, PostgreSQL, Neo4J
+
 Automation tools | Selenium
+
 Other tools | OSM, ManageIQ, Kafka, Redis, Tableau
+
 Operating System | Linux/Unix (command line), Windows, Mac
 
 ## Education
