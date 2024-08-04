@@ -18,10 +18,13 @@ Consultant | GyanSys Inc | Bangalore, India | May 2021 – December 2021
 • Designed and implemented a scalable ETL process by leveraging my knowledge of ETL tools and methodologies, was able to
 design a process that could handle over 100,000 records of big data from multiple sources, that resulted in an improvement in
 data processing efficiency by 40%, all within a span of 3 months.
+
 • Streamlined the workflow to automate the data extraction process from Azure Blob Storage to Veeva Cloud using scripts, that
 led to a 65% increase in workflow efficiency.
+
 • Improved reporting efficiency to analyze large datasets from various databases using advanced SQL queries to identify trends
 that resulted in a 40% increase in reporting efficiency.
+
 • Collaborated effectively across teams to optimize database queries by working closely with other teams, I was able to identify
 and resolve development challenges that resulted in an 80% performance increase in database queries.
 
