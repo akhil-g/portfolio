@@ -32,10 +32,13 @@ System Engineer |Tata Consultancy Services | Hyderabad, India | September 2018 �
 
 • Designed a Kubernetes architecture with high availability using HPA scripts on OpenStack that resulted in achieving 99%
 uptime for critical applications.
+
 • Automated the deployment workflows of containers and implemented security tools for Kubernetes pods using CI/CD pipelines
 for the automation and implemented the necessary security tools that led to a 26% performance improvement.
+
 • Constructed a virtual EPC environment on OpenStack with a Kubernetes pod using automation for dynamic IP routing within a
 60-second timeframe that resulted in a more efficient and responsive system.
+
 • Developed a Telco Cloud VNF allocation estimator algorithm designed with a command-line interface (CLI) and Excel
 integration, the algorithm had a 98% accuracy rate, improving the efficiency of resource allocation.
 
