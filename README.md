@@ -4,7 +4,7 @@
 
 ## Professional Summary
 
-Dynamic software engineer with 4+ years of experience in designing, building, and maintaining robust infrastructure and developer
+Software engineer with 4+ years of experience in designing, building, and maintaining robust infrastructure and developer
 tools. Proven expertise in Java, Python, and Kubernetes, with a strong focus on automating deployment processes to enhance developer
 productivity. Demonstrated ability to streamline workflows and improve software development lifecycles through a product mindset
 and a deep understanding of systems and software. Adept at collaborating with cross-functional teams and leveraging cutting-edge
