@@ -41,6 +41,74 @@ Software Engineer Intern | Tata Consultancy Services | Hyderabad, India | Januar
 • Build a functional software simulation of the RLC AM entity using C++ and socket programming on a Linux system to develop
 the simulation that led to a 50% reduction in testing time for new features of the LTE protocol stack’s RLC layer.
 
+<table>
+  <thead>
+    <tr>
+      <th>Domain</th>
+      <th>Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Programming Languages</td>
+      <td>Python, Core Java, Ruby, C++, C, shell scripting</td>
+    </tr>
+    <tr>
+      <td>Version Control tools</td>
+      <td>GitHub, Gitlab</td>
+    </tr>
+    <tr>
+      <td>Big Data Technologies</td>
+      <td>Hadoop, Spark, Map Reduce</td>
+    </tr>
+    <tr>
+      <td>Containerization tools</td>
+      <td>Docker, Kubernetes, Istio, Jaeger, Kiali, Grafana, Helm charts</td>
+    </tr>
+    <tr>
+      <td>Monitoring tools</td>
+      <td>Nagios, ELK stack</td>
+    </tr>
+    <tr>
+      <td>Cloud Platform</td>
+      <td>OpenStack, AWS, Azure, GCP</td>
+    </tr>
+    <tr>
+      <td>Cloud Tools</td>
+      <td>Azure blob storage, AWS EC2, AWS S3, DynamoDB, AWS Glue, AWS Lambda</td>
+    </tr>
+    <tr>
+      <td>DevOps tools</td>
+      <td>Jenkins, Azure DevOps, SonarQube</td>
+    </tr>
+    <tr>
+      <td>Build tools</td>
+      <td>Maven, Gradle</td>
+    </tr>
+    <tr>
+      <td>Frameworks</td>
+      <td>Django, Flask, Spring Boot</td>
+    </tr>
+    <tr>
+      <td>Web Technologies</td>
+      <td>Html, Basics of Angular 8</td>
+    </tr>
+    <tr>
+      <td>Database</td>
+      <td>MySQL, MongoDB, Elasticsearch, PostgreSQL, Neo4J</td>
+    </tr>
+    <tr>
+      <td>Automation tools</td>
+      <td>Selenium</td>
+    </tr>
+    <tr>
+      <td>Operating System</td>
+      <td>Linux/Unix (command line), Windows, Mac</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Technical Skills
 | Category               | Skills                                                              |
 |:-----------------------|:--------------------------------------------------------------------|
