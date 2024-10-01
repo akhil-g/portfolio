@@ -1,6 +1,7 @@
 <!---![My Logo]({{ site.baseurl }}{{ site.logo }})--->
 
-# Software Engineer
+<!---# Software Engineer--->
+# Enthusiastic Computer Science Learner
 
 ## Professional Summary
 
