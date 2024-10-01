@@ -13,6 +13,15 @@ for developers, driving innovation and growth in fast-paced settings.
 
 ## Experience
 
+Machine Learning Intern | Kaizen Voiz | United States, Remote | Feburary 2024 – Present
+
+•	Gather and curate diverse datasets of face images, videos and lip movements for model training and evaluation.
+•	Preprocess collected data, including facial landmark extraction, image normalization, and alignment, to ensure consistency across the dataset.
+•	Develop custom augmentation strategies tailored to facial recognition and lip-sync tasks, including facial expression variations and mouth movement dynamics.
+•	Working in building and fine-tuning machine learning models for face recognition using state-of-the-art architectures like Convolutional Neural Networks (CNNs) or Transformer-based models.
+• Working on building and fine tuning a text summerization Module using Pytorch and transformers.
+
+
 Consultant | GyanSys Inc | Bangalore, India | May 2021 – December 2021
 
 • Designed and implemented a scalable ETL process by leveraging my knowledge of ETL tools and methodologies, was able to
