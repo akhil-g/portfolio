@@ -14,7 +14,14 @@ for developers, driving innovation and growth in fast-paced settings.
 
 ## Experience
 
-Machine Learning Intern | Kaizen Voiz | United States, Remote | Feburary 2024 – Present
+Database Support Engineer | ICCO | United States, FL | October 2024 – Present
+
+•	Manage and optimize database queries, stored procedures, and functions using TSQL and SQL Server
+• Troubleshoot and resolve database-related issues, improving data accessibility and integrity
+• Document and address technical issues related to database and application performance
+
+
+Machine Learning Intern | Kaizen Voiz | United States, Remote | May 2024 – October 2024
 
 •	Gather and curate diverse datasets of face images, videos and lip movements for model training and evaluation.
 •	Preprocess collected data, including facial landmark extraction, image normalization, and alignment, to ensure consistency across the dataset.
