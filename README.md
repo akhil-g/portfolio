@@ -1,4 +1,5 @@
 <!---![My Logo]({{ site.baseurl }}{{ site.logo }})--->
+![My Logo]({{ site.baseurl }}{{ site.logo }})
 
 # Software Engineer
 <!--# Enthusiastic Computer Science Learner-->
