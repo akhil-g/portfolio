@@ -1,7 +1,8 @@
 <!---![My Logo]({{ site.baseurl }}{{ site.logo }})--->
+[My Logo]({{ site.baseurl }}{{ site.logo }})
 
-<!---# Software Engineer--->
-# Enthusiastic Computer Science Learner
+# Software Engineer
+<!--# Enthusiastic Computer Science Learner-->
 
 ## Professional Summary
 
@@ -17,16 +18,22 @@ for developers, driving innovation and growth in fast-paced settings.
 Database Support Engineer | ICCO | FL, United States | October 2024 – Present
 
 •	Manage and optimize database queries, stored procedures, and functions using TSQL and SQL Server
+
 • Troubleshoot and resolve database-related issues, improving data accessibility and integrity
+
 • Document and address technical issues related to database and application performance
 
 
 Machine Learning Intern | Kaizen Voiz | United States, Remote | May 2024 – October 2024
 
 •	Gather and curate diverse datasets of face images, videos and lip movements for model training and evaluation.
+
 •	Preprocess collected data, including facial landmark extraction, image normalization, and alignment, to ensure consistency across the dataset.
+
 •	Develop custom augmentation strategies tailored to facial recognition and lip-sync tasks, including facial expression variations and mouth movement dynamics.
+
 •	Working in building and fine-tuning machine learning models for face recognition using state-of-the-art architectures like Convolutional Neural Networks (CNNs) or Transformer-based models.
+
 • Working on building and fine tuning a text summerization Module using Pytorch and transformers.
 
 
