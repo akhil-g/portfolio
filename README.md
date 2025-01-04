@@ -14,7 +14,7 @@ for developers, driving innovation and growth in fast-paced settings.
 
 ## Experience
 
-Database Support Engineer | ICCO | United States, FL | October 2024 – Present
+Database Support Engineer | ICCO | FL, United States | October 2024 – Present
 
 •	Manage and optimize database queries, stored procedures, and functions using TSQL and SQL Server
 • Troubleshoot and resolve database-related issues, improving data accessibility and integrity
